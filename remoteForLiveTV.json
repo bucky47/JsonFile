@@ -13,6 +13,21 @@
 			"ShowVideoAds": "1",
 			"URLtoLunch": "https://live.vevonova.com/OnlyFans"
 			
+		}],
+	"mp3downloader":
+
+		[{
+			"Jinterstitial": "ca-app-pub-7876665967385272/2320873986",
+			"Jbanner": "ca-app-pub-7876665967385272/7844663404",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-7876665967385272~9596728773",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1063471930782603_1063471967449266",
+			"FB_Interstitial": "1063471930782603_1063471977449265",
+			"AdsType": "admob",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://ytmp3.cc/en13/"
+			
 		}]
 		
     
