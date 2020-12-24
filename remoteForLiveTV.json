@@ -9,7 +9,7 @@
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
 			"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 			"FB_Interstitial": "IMG_16_9_APP_INSTALL#232349471587149_232350751587021",
-			"AdsType": "admob",
+			"AdsType": "fa",
 			"ShowVideoAds": "1",
 			"URLtoLunch": "https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview"
 			
